@@ -1,0 +1,133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Structured data (Beta)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-08 17:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: modules/organization.php:53 modules/local-business.php:93
+msgid "Active"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add Google Structured data to your website, local map, opening hours, "
+"contact information with json data only avialble for google."
+msgstr ""
+
+#: modules/local-business.php:152
+msgid "Business address country"
+msgstr ""
+
+#: modules/local-business.php:143
+msgid "Business Address locality"
+msgstr ""
+
+#: modules/local-business.php:146
+msgid "Business address region"
+msgstr ""
+
+#: modules/local-business.php:113
+msgid "Business Description"
+msgstr ""
+
+#: modules/local-business.php:107
+msgid "Business email"
+msgstr ""
+
+#: modules/local-business.php:155
+msgid "Business geo coordinates latitude"
+msgstr ""
+
+#: modules/local-business.php:158
+msgid "Business geo coordinates longitude"
+msgstr ""
+
+#: modules/local-business.php:105
+msgid "Business name"
+msgstr ""
+
+#: modules/local-business.php:117
+msgid "Business photos"
+msgstr ""
+
+#: modules/local-business.php:149
+msgid "Business postal code"
+msgstr ""
+
+#: modules/local-business.php:140
+msgid "Business Steert address"
+msgstr ""
+
+#: modules/local-business.php:110
+msgid "Business telephone"
+msgstr ""
+
+#: modules/local-business.php:97
+msgid "Business type"
+msgstr ""
+
+#: modules/admin-panel.php:18
+msgid "Google Structured data"
+msgstr ""
+
+#. Name of the plugin
+msgid "Google Structured data (Beta)"
+msgstr ""
+
+#: modules/organization.php:51 modules/local-business.php:91
+msgid "Google Structured Data Settings"
+msgstr ""
+
+#: modules/organization.php:57 modules/local-business.php:103
+msgid "Home URL"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.script.co.il"
+msgstr ""
+
+#: modules/admin-panel.php:23
+msgid "Local business"
+msgstr ""
+
+#: modules/admin-panel.php:23
+msgid "Local business settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "Oren Hahiashvili"
+msgstr ""
+
+#: modules/admin-panel.php:17
+msgid "Organization settings"
+msgstr ""
+
+#: modules/organization.php:80 modules/local-business.php:162
+msgid "Save"
+msgstr ""
+
+#: modules/local-business.php:103
+msgid "Uniqe URL"
+msgstr ""
+
+#: modules/local-business.php:115
+msgid "Website description"
+msgstr ""
+
+#: modules/local-business.php:105
+msgid "Website name"
+msgstr ""
+
+#: modules/organization.php:57
+msgid "Website URL"
+msgstr ""

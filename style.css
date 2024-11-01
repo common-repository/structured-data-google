@@ -1,0 +1,6 @@
+#gsd-active {
+	display: none;
+}
+#gsd-active.active {
+	display: block;
+}
